@@ -1,3 +1,4 @@
 # SPMtest
 
-this is a fix
+![alt text](dog.jpg)
+
